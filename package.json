@@ -1,0 +1,14 @@
+{
+  "name": "opsonatus",
+  "description": "inPatc's marketing web interface",
+  "version": "0.0.1",
+  "private": true,
+  "main": "app.js",
+  "author": "Eliav Maman",
+  "dependencies": {
+    "express": "^4.7.2",
+    "winston": "^0.7.3"
+  },
+  "devDependencies": {}
+}
+
